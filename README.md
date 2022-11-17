@@ -7,3 +7,5 @@
 </p>
 
 Visit [here](https://github.com/Flow-Launcher/Prereleases/releases/latest) for the latest and greatest upcoming version of Flow Launcher 
+
+**Tip**: Click on the 'Watch' button above, select 'Custom' and tick 'Releases', you will then be notified of new early acess version releases.
